@@ -1,3 +1,17 @@
+# [8.5.0](https://github.com/SamuelSSalazar/express-jwt/compare/v8.4.1...v8.5.0) (2026-02-10)
+
+
+### Bug Fixes
+
+* signature of middleware returned ([7520381](https://github.com/SamuelSSalazar/express-jwt/commit/75203815ab759f65aa114f4eb01faa58bc0e1e0c))
+
+
+### Features
+
+* add semantic-release automation ([8d2d005](https://github.com/SamuelSSalazar/express-jwt/commit/8d2d0051b49ba1ef0becb58abf8dade43e85fb9e))
+
+
+
 # Change Log
 
 All notable changes to this project will be documented in this file starting from version **v4.0.0**.
